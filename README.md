@@ -1,5 +1,5 @@
 # Stryfe Mod
-This project aims to bring Arduino hardware into the Stryfe (any pusher based semi-automatic) blaster platform.
+This project aims to bring Arduino hardware into the Nerf Stryfe (or any pusher based semi-automatic) blaster platform.
 
 ## Setting up your environment
 Because this project requires the use of symbolic links, you will need to use the command line to clone the repository. Visual Studio Code can do it, but it does not permit symbolic links by default.
